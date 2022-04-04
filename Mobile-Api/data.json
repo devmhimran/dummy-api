@@ -3,13 +3,13 @@
         "id": "1",
         "name": "Nova 9",
         "price": 20000,
-        "img": "./mobile-image/1.jpg"
+        "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Mobile-Api/mobile-image/1.jpg"
     },
     {
         "id": "2",
         "name": "Galaxy S22 5G",
         "price": 110000,
-        "img": "./mobile-image/2.jpg"
+        "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Mobile-Api/mobile-image/2.jpg"
     },
     {
         "id": "3",
