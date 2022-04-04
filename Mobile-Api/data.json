@@ -52,7 +52,7 @@
         "name": "iPhone 11",
         "price": 100000,
         "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Mobile-Api/mobile-image/9.jpg"
-    }
+    },
     {
         "id": "10",
         "name": "Reno7 Pro 5G",
