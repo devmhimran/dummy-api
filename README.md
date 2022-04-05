@@ -3,5 +3,5 @@
 ## Mobile Info
 Api : 
 
-# Copy to clipboard [![Build Status](https://travis-ci.org/sudodoki/copy-to-clipboard.svg?branch=master)](https://travis-ci.org/sudodoki/copy-to-clipboard)
+# Copy to clipboard [![Build Status](https://raw.githubusercontent.com/devmhimran/dummy-api/main/Mobile-Api/data.json)](https://raw.githubusercontent.com/devmhimran/dummy-api/main/Mobile-Api/data.json)
 
