@@ -2,43 +2,43 @@
     {
         "id": "1",
         "name": "Floyd Boyd",
-        "description": 20000,
-        "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Mobile-Api/mobile-image/1.jpg",
+        "description": "Sound is very good Design is awesome good battery backup. Amazing experience!!",
+        "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Review-APi/user-image/1.jpg",
         "rating" : 4.5
     },
     {
         "id": "2",
         "name": "Damon Sharp",
-        "description": 110000,
-        "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Mobile-Api/mobile-image/2.jpg",
+        "description": "Just loved it, Awesome sound quality. better than I expected. They are very unique nd Sound quality is too good",
+        "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Review-APi/user-image/2.jpg",
         "rating" : 4.1
     },
     {
         "id": "3",
         "name": "Jim Conner",
-        "description": 85000,
-        "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Mobile-Api/mobile-image/3.jpg",
+        "description": "I love this product and it has very good battery back up and I am really enjoying with it. Thanks Nothing for this lovely product",
+        "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Review-APi/user-image/3.jpg",
         "rating" : 4
     },
     {
         "id": "4",
         "name": "Sidney Powell",
-        "description": 50000,
-        "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Mobile-Api/mobile-image/4.jpg",
+        "description": "Me personally, liked the earbuds very much..sound is good enough while the bass is not up to the mark..yet happy to have these. Also if all colors could be made available anytime, will really appreciate that.",
+        "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Review-APi/user-image/4.jpg",
         "rating" : 5
     },
     {
         "id": "5",
         "name": "Lowell Roberts",
-        "description": 25000,
-        "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Mobile-Api/mobile-image/5.jpg",
+        "description": "Sound is good worth for money but even after the box closed light is not turning down off. Awesome Product with great battery Backup..!!",
+        "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Review-APi/user-image/5.jpg",
         "rating" : 4.8
     },
     {
         "id": "6",
         "name": "Jody Massey",
-        "description": 72000,
-        "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Mobile-Api/mobile-image/6.jpg",
+        "description": "Excellent music quality. lite weight and easy to carry along anywhere. They are the best earbuds.Thankyou Nothing",
+        "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Review-APi/user-image/6.jpg",
         "rating" : 4.9
     }
 ]
