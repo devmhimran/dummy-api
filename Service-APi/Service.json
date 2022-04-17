@@ -1,0 +1,39 @@
+[
+    {
+        "id": "1",
+        "name" : "Combo Classic",
+        "price" : 40000,
+        "image" :,
+        "photographer" : "1 Top & 1 Associate Photographer",
+        "time" : "5 Hours Shoot",
+        "light" : "Portrait Light Setup",
+        "print" : "Print: 4R (4x6): 100 Copies & 12L (12X18): 1 Copy",
+        "print_paper" : "All Printed Photos Delivered With Matte/Glossy Paper"
+
+    },
+    {
+        "id": "2",
+        "name" : "Combo Exclusive",
+        "price" : 52000,
+        "image" :,
+        "photographer" : "1 Top, 1 Senior & 1 Associate Photographer",
+        "time" : "5 Hours Shoot",
+        "light" : "Portrait Light Setup",
+        "print" : "Print: 5L (5X7.5): 120 Copies, 12L(12X18): 1 Copy & Poster: 20L (20X30): 1 Copy",
+        "print_paper" : "All Printed Photos Delivered With Matte/Glossy Paper 1 Imported Pasting Album"
+
+    },
+    {
+        "id": "3",
+        "name" : "Combo Signature",
+        "price" : 60000,
+        "image" :,
+        "photographer" : "2 Top & 1 Senior Photographers",
+        "time" : "5 Hours Shoot",
+        "light" : "Portrait Light Setup",
+        "print" : "Print: 5L (5X 7.5): 120 Copies, 12L(12X18):1 Copy & Poster: 20L (20X30): 1 Copy",
+        "print_paper" : "All Printed Photos Delivered With Matte/Glossy Paper 1 Imported Pasting Album"
+
+    }
+
+]
