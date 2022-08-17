@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "name": "Casa De Caleta",
+        "location": "Dartmouth, MA 02748",
+        "price": 3450,
+        "bed": "3",
+        "bathroom": "2",
+        "space": "8x7",
+        "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/E-State-Api/Property-Image/e-state-image-1.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Villa De Morena",
+        "location": "Brooklyn, NY 11209",
+        "price": 2400,
+        "bed": "4",
+        "bathroom": "2",
+        "space": "8x10",
+        "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/E-State-Api/Property-Image/e-state-image-2.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Villa New Hampton",
+        "location": "La Quinta, CA 32453",
+        "price": 4100,
+        "bed": "5",
+        "bathroom": "3",
+        "space": "8x10",
+        "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/E-State-Api/Property-Image/e-state-image-3.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Palm Harbor",
+        "location": "21301 Sw 376 St, Florida City FL",
+        "price": 4600,
+        "bed": "4",
+        "bathroom": "2",
+        "space": "7x10",
+        "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/E-State-Api/Property-Image/e-state-image-4.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Beverly SpringField",
+        "location": "999 Hamilton Dr 999a, Homestead FL",
+        "price": 3500,
+        "bed": "3",
+        "bathroom": "2",
+        "space": "7x9",
+        "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/E-State-Api/Property-Image/e-state-image-5.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Faulkner Ave",
+        "location": "10804 Sw 132, Miami FL",
+        "price": 5100,
+        "bed": "5",
+        "bathroom": "3",
+        "space": "9x12",
+        "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/E-State-Api/Property-Image/e-state-image-6.jpg"
+    }
+]
