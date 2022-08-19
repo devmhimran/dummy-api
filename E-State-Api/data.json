@@ -8,6 +8,7 @@
         "bathroom": "2",
         "space": "8x7",
         "tag": "Popular",
+        "propertyType": "House",
         "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/E-State-Api/Property-Image/e-state-image-1.jpg"
     },
     {
@@ -19,6 +20,7 @@
         "bathroom": "2",
         "space": "8x10",
         "tag": "Popular",
+        "propertyType": "House",
         "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/E-State-Api/Property-Image/e-state-image-2.jpg"
     },
     {
@@ -30,6 +32,7 @@
         "bathroom": "3",
         "space": "8x10",
         "tag": "Popular",
+        "propertyType": "House",
         "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/E-State-Api/Property-Image/e-state-image-3.jpg"
     },
     {
@@ -41,6 +44,7 @@
         "bathroom": "2",
         "space": "7x10",
         "tag": "Popular",
+        "propertyType": "House",
         "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/E-State-Api/Property-Image/e-state-image-4.jpg"
     },
     {
@@ -52,6 +56,7 @@
         "bathroom": "2",
         "space": "7x9",
         "tag": "Popular",
+        "propertyType": "House",
         "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/E-State-Api/Property-Image/e-state-image-5.jpg"
     },
     {
@@ -63,6 +68,7 @@
         "bathroom": "3",
         "space": "9x12",
         "tag": "Popular",
+        "propertyType": "House",
         "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/E-State-Api/Property-Image/e-state-image-6.jpg"
     }
 ]
