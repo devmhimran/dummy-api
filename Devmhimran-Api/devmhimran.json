@@ -34,7 +34,7 @@
       "name": "News Portal",
       "description": "It is a News Portal Website, based on news or blog site",
       "thumbnail": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Devmhimran-Api/Devmhimran-image/devmhimran-news-portal.png",
-      "liveSite": "https://devmhimran.github.io/news-portal-js/",
+      "liveSite": "https://news-portal-blog-site.netlify.app/",
       "clientSide": "https://github.com/devmhimran/news-portal-js",
       "serverSide": "",
       "technology": "HTML, JS, CSS, Bootstrap, API"
