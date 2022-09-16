@@ -28,5 +28,15 @@
       "clientSide": "https://github.com/devmhimran/wedding-ultra-shots-client",
       "serverSide": "",
       "technology": "JS, CSS, React Bootstrap, React Router, Firebase Hook,React Icon, Firebase"
+    },
+    {
+      "id": "4",
+      "name": "News Portal",
+      "description": "It is a News Portal Website, based on news or blog site",
+      "thumbnail": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Devmhimran-Api/Devmhimran-image/devmhimran-news-portal.png",
+      "liveSite": "https://devmhimran.github.io/news-portal-js/",
+      "clientSide": "https://github.com/devmhimran/news-portal-js",
+      "serverSide": "",
+      "technology": "HTML, JS, CSS, Bootstrap, API"
     }
   ]
