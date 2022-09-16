@@ -48,5 +48,15 @@
       "clientSide": "https://github.com/devmhimran/e-state-client",
       "serverSide": "",
       "technology": "React JS, React Router, Css, API, TailwindCss, DaisyUi, Netlify"
+    },
+    {
+      "id": "6",
+      "name": "Mobopedia",
+      "description": "It is a phone information website, based on informative website",
+      "thumbnail": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Devmhimran-Api/Devmhimran-image/devmhimran-mobopedia.jpg",
+      "liveSite": "https://youtu.be/leFpIEXhSV0",
+      "clientSide": "https://github.com/devmhimran/mobo-pedia",
+      "serverSide": "",
+      "technology": "Html, Css, Bulma Css, Authentication, Admin Dashboard, PHP, MySql"
     }
   ]
