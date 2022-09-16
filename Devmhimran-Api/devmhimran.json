@@ -1,8 +1,22 @@
 [
     {
       "id": "1",
-      "name": "Nova 9",
-      "price": 20000,
-      "img": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Mobile-Api/mobile-image/1.jpg"
+      "name": "Find Tools",
+      "description": "A tool Manufacturing website, Its feature is e-commerce based",
+      "thumbnail": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Devmhimran-Api/Devmhimran-image/devmhimran-find-tools.png",
+      "liveSite": "https://find-tools-92071.web.app/",
+      "clientSide": "https://github.com/devmhimran/find-tools-client",
+      "serverSide": "https://github.com/devmhimran/find-tools-server",
+      "technology": "JS, CSS, Tailwind, Daisy UI, React Router, Firebase Hook, React Icon, Firebase, React Hot Toastify, MongoDB"
+    }
+    {
+      "id": "2",
+      "name": "Find Tools",
+      "description": "A tool Manufacturing website, Its feature is e-commerce based",
+      "thumbnail": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Devmhimran-Api/Devmhimran-image/devmhimran-find-tools.png",
+      "liveSite": "https://find-tools-92071.web.app/",
+      "clientSide": "https://github.com/devmhimran/find-tools-client",
+      "serverSide": "https://github.com/devmhimran/find-tools-server",
+      "technology": "JS, CSS, Tailwind, Daisy UI, React Router, Firebase Hook, React Icon, Firebase, React Hot Toastify, MongoDB"
     }
   ]
