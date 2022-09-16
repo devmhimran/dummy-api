@@ -8,7 +8,7 @@
       "clientSide": "https://github.com/devmhimran/find-tools-client",
       "serverSide": "https://github.com/devmhimran/find-tools-server",
       "technology": "JS, CSS, Tailwind, Daisy UI, React Router, Firebase Hook, React Icon, Firebase, React Hot Toastify, MongoDB"
-    }
+    },
     {
       "id": "2",
       "name": "Find Tools",
