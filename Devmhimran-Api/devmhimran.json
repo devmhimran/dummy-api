@@ -7,7 +7,7 @@
       "liveSite": "https://find-tools-92071.web.app/",
       "clientSide": "https://github.com/devmhimran/find-tools-client",
       "serverSide": "https://github.com/devmhimran/find-tools-server",
-      "technology": "JS, CSS, Tailwind, Daisy UI, React Router, Firebase Hook, React Icon, Firebase, React Hot Toastify, MongoDB"
+      "technology": "JS, CSS, Tailwind, Daisy UI, React Router, Firebase Hook, Firebase, Node JS, Express Js, MongoDB"
     },
     {
       "id": "2",
@@ -17,7 +17,7 @@
       "liveSite": "https://grocery-shop-4df4d.web.app/",
       "clientSide": "https://github.com/devmhimran/grocery-shop-client",
       "serverSide": "https://github.com/devmhimran/grocery-shop-server",
-      "technology": "JS, CSS, React Bootstrap, React Router, Firebase Hook, React Icon, Firebase, React Hot Toastify, MongoDB"
+      "technology": "JS, CSS, React Bootstrap, React Router, Firebase Hook, Firebase, Node JS, Express Js, MongoDB"
     },
     {
       "id": "3",
@@ -58,5 +58,15 @@
       "clientSide": "https://github.com/devmhimran/mobo-pedia",
       "serverSide": "",
       "technology": "Html, Css, Bulma Css, Authentication, Admin Dashboard, PHP, MySql"
+    }
+    {
+      "id": "7",
+      "name": "Data Visualization Chart",
+      "description": "It is a dashboard data chart, based on data information",
+      "thumbnail": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Devmhimran-Api/Devmhimran-image/devmhimran-data-visualization.png",
+      "liveSite": "https://dashboard-visualization-b1b29.web.app/",
+      "clientSide": "https://github.com/devmhimran/data-visualization-dashboard",
+      "serverSide": "https://github.com/devmhimran/data-visualization-server",
+      "technology": "JS, React Js, Metarial Tailwind Css, Firebase, Firebase Hook, Node Js, Express Js, MongoDB"
     }
   ]
