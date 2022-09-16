@@ -37,6 +37,16 @@
       "liveSite": "https://news-portal-blog-site.netlify.app/",
       "clientSide": "https://github.com/devmhimran/news-portal-js",
       "serverSide": "",
-      "technology": "HTML, JS, CSS, Bootstrap, API"
+      "technology": "HTML, JS, CSS, Bootstrap, API, Netlify"
+    },
+    {
+      "id": "5",
+      "name": "E State",
+      "description": "It is a Real State website, based on Real state filter",
+      "thumbnail": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Devmhimran-Api/Devmhimran-image/devmhimran-e-state.png",
+      "liveSite": "https://e-state.netlify.app/",
+      "clientSide": "https://github.com/devmhimran/e-state-client",
+      "serverSide": "",
+      "technology": "React JS, React Router, Css, API, TailwindCss, DaisyUi, Netlify"
     }
   ]
