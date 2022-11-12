@@ -30,14 +30,24 @@
     "technology": "JS, CSS, React Bootstrap, React Router, Firebase Hook,React Icon, Firebase"
   },
   {
-    "id": "3233",
+    "id": "3234",
     "name": "Mini Link",
     "description": "It is a link Shortener website, based on builder or generator",
-    "thumbnail": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Devmhimran-Api/Devmhimran-image/devmhimran-wedding-ultrashots.png",
+    "thumbnail": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Devmhimran-Api/Devmhimran-image/devmhimran-mini-link.png",
     "liveSite": "https://mini-link-shortener.firebaseapp.com/",
     "clientSide": "https://github.com/devmhimran/mini-link",
     "serverSide": "",
-    "technology": "JS, CSS, Tailwind Css, React Router, Firebase Hook,React Icon, Firebase, API"
+    "technology": "React JS, CSS, Tailwind Css, React Router, Firebase Hook,React Icon, Firebase, API"
+  },
+  {
+    "id": "3274",
+    "name": "App Landing Page",
+    "description": "It is a app landing page, based on one page website or landing page",
+    "thumbnail": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Devmhimran-Api/Devmhimran-image/devmhimran-app-landing-page-01.png",
+    "liveSite": "https://mini-link-shortener.firebaseapp.com/",
+    "clientSide": "https://github.com/devmhimran/mini-link",
+    "serverSide": "https://github.com/devmhimran/petuk-ji-server",
+    "technology": "React JS, Tailwind Css, React Router, Firebase Hook, Axios, Aos, Node js, Node Mailer, Fast Marquee"
   },
   {
     "id": "4343",
