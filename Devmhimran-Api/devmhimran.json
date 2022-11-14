@@ -44,8 +44,8 @@
     "name": "App Landing Page",
     "description": "It is a app landing page, based on one page website or landing page",
     "thumbnail": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Devmhimran-Api/Devmhimran-image/devmhimran-app-landing-page-01.png",
-    "liveSite": "https://mini-link-shortener.firebaseapp.com/",
-    "clientSide": "https://github.com/devmhimran/mini-link",
+    "liveSite": "https://starlit-kringle-f9b067.netlify.app/",
+    "clientSide": "https://github.com/devmhimran/petukji-about-us-task",
     "serverSide": "https://github.com/devmhimran/petuk-ji-server",
     "technology": "React JS, Tailwind Css, React Router, Firebase Hook, Axios, Aos, Node js, Node Mailer, Fast Marquee"
   },
