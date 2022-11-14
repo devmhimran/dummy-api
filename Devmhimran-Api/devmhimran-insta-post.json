@@ -1,0 +1,17 @@
+[
+    {
+        "name": "devmhimran-post-01",
+        "thumbnail": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Devmhimran-Api/insta-post-image/devmhimran_post-01.jpg?raw=true",
+        "link": "https://www.instagram.com/p/CjlPvYVJQ1o/"
+    },
+    {
+        "name": "devmhimran-post-02",
+        "thumbnail": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Devmhimran-Api/insta-post-image/devmhimran-post-02.jpg?raw=true",
+        "link": "https://www.instagram.com/p/CkuAoqqPI1F/"
+    },
+    {
+        "name": "devmhimran-post-03",
+        "thumbnail": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Devmhimran-Api/insta-post-image/devmhimran-post-03.jpg?raw=true",
+        "link": "https://www.instagram.com/p/Ckx_5V8JEQy/"
+    }
+]
