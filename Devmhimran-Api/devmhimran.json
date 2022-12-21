@@ -2,7 +2,7 @@
   {
     "id": "1343",
     "name": "Find Tools",
-    "description": "A tool Manufacturing website, based on e-commerce ",
+    "description": "A tool Manufacturing website, based on e-commerce",
     "thumbnail": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Devmhimran-Api/Devmhimran-image/devmhimran-find-tools.png",
     "liveSite": "https://find-tools-92071.web.app/",
     "clientSide": "https://github.com/devmhimran/find-tools-client",
@@ -18,6 +18,15 @@
     "clientSide": "https://github.com/devmhimran/grocery-shop-client",
     "serverSide": "https://github.com/devmhimran/grocery-shop-server",
     "technology": "JS, CSS, React Bootstrap, React Router, Firebase Hook, Firebase, Node JS, Express Js, MongoDB"
+  },
+  {
+    "id": "135243",
+    "name": "Redux E-Shopping",
+    "description": "https://github.com/devmhimran/shopping-cart-redux",
+    "thumbnail": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Devmhimran-Api/Devmhimran-image/devmhimran-redux-shopping-cart.png",
+    "liveSite": "https://redux-e-shopping.netlify.app/",
+    "clientSide": "https://github.com/devmhimran/shopping-cart-redux",
+    "technology": "JS, CSS, React, Redux, Tailwind, Material Tailwind Css, React Router, Free API"
   },
   {
     "id": "3233",
