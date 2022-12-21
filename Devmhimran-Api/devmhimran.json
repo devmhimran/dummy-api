@@ -22,7 +22,7 @@
   {
     "id": "135243",
     "name": "Redux E-Shopping",
-    "description": "https://github.com/devmhimran/shopping-cart-redux",
+    "description": "This is a simple shopping cart project using react js, react redux, redux",
     "thumbnail": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Devmhimran-Api/Devmhimran-image/devmhimran-redux-shopping-cart.png",
     "liveSite": "https://redux-e-shopping.netlify.app/",
     "clientSide": "https://github.com/devmhimran/shopping-cart-redux",
