@@ -13,5 +13,15 @@
         "name": "devmhimran-post-03",
         "thumbnail": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Devmhimran-Api/insta-post-image/devmhimran-post-03.jpg?raw=true",
         "link": "https://www.instagram.com/p/Ckx_5V8JEQy/"
+    },
+    {
+        "name": "devmhimran-post-04",
+        "thumbnail": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Devmhimran-Api/insta-post-image/devmhimran-post-06.jpg",
+        "link": "https://www.instagram.com/p/CnbzXVbL-K4/?next=%2F"
+    },
+    {
+        "name": "devmhimran-post-05",
+        "thumbnail": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Devmhimran-Api/insta-post-image/devmhimran-post-05.jpg",
+        "link": "https://www.instagram.com/p/CmXg63JPAcD/?next=%2F"
     }
 ]
