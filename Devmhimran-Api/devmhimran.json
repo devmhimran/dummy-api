@@ -7,17 +7,17 @@
     "liveSite": "https://find-tools-92071.web.app/",
     "clientSide": "https://github.com/devmhimran/find-tools-client",
     "serverSide": "https://github.com/devmhimran/find-tools-server",
-    "technology": "JS, CSS, Tailwind, Daisy UI, React Router, Firebase Hook, Firebase, Node JS, Express Js, MongoDB"
+    "technology": "React Js, Tailwind Css, Daisy UI, React Router, Firebase Hook, Firebase, Node JS, Express Js, MongoDB"
   },
   {
     "id": "13453",
     "name": "Posthub",
     "description": "PostHub is a blog site",
-    "thumbnail": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Devmhimran-Api/Devmhimran-image/devmhimran-find-tools.png",
+    "thumbnail": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Devmhimran-Api/Devmhimran-image/devmhimran-posthub.png",
     "liveSite": "https://posthub-blog.web.app/",
     "clientSide": "https://github.com/devmhimran/cms-blog-redux",
     "serverSide": "https://github.com/devmhimran/cms-blog-redux-server",
-    "technology": "JS, CSS, Tailwind, Daisy UI, React Router, Firebase Hook, Firebase, Node JS, Express Js, MongoDB"
+    "technology": "React Js, Tailwind Css, Material Tailwind, React Router, React Redux, Redux Thunk,Firebase Hook, Firebase, Node JS, Express Js, MongoDB"
   },
   {
     "id": "2433",
@@ -27,7 +27,7 @@
     "liveSite": "https://grocery-shop-4df4d.web.app/",
     "clientSide": "https://github.com/devmhimran/grocery-shop-client",
     "serverSide": "https://github.com/devmhimran/grocery-shop-server",
-    "technology": "JS, CSS, React Bootstrap, React Router, Firebase Hook, Firebase, Node JS, Express Js, MongoDB"
+    "technology": "React Js, React Bootstrap, React Router, Firebase Hook, Firebase, Node JS, Express Js, MongoDB"
   },
   {
     "id": "135243",
@@ -36,7 +36,7 @@
     "thumbnail": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Devmhimran-Api/Devmhimran-image/devmhimran-redux-shopping-cart.png",
     "liveSite": "https://redux-e-shopping.netlify.app/",
     "clientSide": "https://github.com/devmhimran/shopping-cart-redux",
-    "technology": "JS, CSS, React, Redux, Tailwind, Material Tailwind Css, React Router, Free API"
+    "technology": "React Js, Redux, Tailwind, Material Tailwind Css, React Router, Free API"
   },
   {
     "id": "3233",
@@ -46,7 +46,7 @@
     "liveSite": "https://wedding-ultra-shots.web.app/",
     "clientSide": "https://github.com/devmhimran/wedding-ultra-shots-client",
     "serverSide": "",
-    "technology": "JS, CSS, React Bootstrap, React Router, Firebase Hook,React Icon, Firebase"
+    "technology": "React Js, Css, React Bootstrap, React Router, Firebase Hook,React Icon, Firebase"
   },
   {
     "id": "3234",
