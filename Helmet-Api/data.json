@@ -1,0 +1,72 @@
+[
+  {
+    "image": "https://i.ibb.co/wJq8gSW/product-image.png",
+    "name": "Blue Full Face Helmet",
+    "price": "$129.99",
+    "category": "Helmets",
+    "status": "New Arrival"
+  },
+  {
+    "image": "https://i.ibb.co/wJq8gSW/product-image.png",
+    "name": "Black Modular Helmet",
+    "price": "$179.99",
+    "category": "Helmets",
+    "status": "Summer Sale"
+  },
+  {
+    "image": "https://i.ibb.co/wJq8gSW/product-image.png",
+    "name": "Red Off-Road Helmet",
+    "price": "$99.99",
+    "category": "Helmets",
+    "status": "Sold"
+  },
+  {
+    "image": "https://i.ibb.co/wJq8gSW/product-image.png",
+    "name": "Yellow Open Face Helmet",
+    "price": "$79.99",
+    "category": "Helmets",
+    "status": "Out of Stock"
+  },
+  {
+    "image": "https://i.ibb.co/wJq8gSW/product-image.png",
+    "name": "White Dual Sport Helmet",
+    "price": "$149.99",
+    "category": "Helmets",
+    "status": "New Arrival"
+  },
+  {
+    "image": "https://i.ibb.co/wJq8gSW/product-image.png",
+    "name": "Pink Half Helmet",
+    "price": "$69.99",
+    "category": "Helmets",
+    "status": "Summer Sale"
+  },
+  {
+    "image": "https://i.ibb.co/wJq8gSW/product-image.png",
+    "name": "Green Motocross Helmet",
+    "price": "$119.99",
+    "category": "Helmets",
+    "status": "Sold"
+  },
+  {
+    "image": "https://i.ibb.co/wJq8gSW/product-image.png",
+    "name": "Silver Carbon Fiber Helmet",
+    "price": "$199.99",
+    "category": "Helmets",
+    "status": "Out of Stock"
+  },
+  {
+    "image": "https://i.ibb.co/wJq8gSW/product-image.png",
+    "name": "Black Visor Helmet",
+    "price": "$89.99",
+    "category": "Helmets",
+    "status": "New Arrival"
+  },
+  {
+    "image": "https://i.ibb.co/wJq8gSW/product-image.png",
+    "name": "Blue Racing Helmet",
+    "price": "$159.99",
+    "category": "Helmets",
+    "status": "Upcoming"
+  }
+]
